@@ -19,6 +19,7 @@ public class ThatTimeMeAndIanForked {
       Random ran = new Random();
       int time = ran.nextInt(100)+1;
       System.out.print(time +" minutes\n\n\n can't you do better?");
+      System.out.print("eh It's me Ian.");
       
     }
     
